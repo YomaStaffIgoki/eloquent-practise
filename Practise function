@@ -1,0 +1,7 @@
+Function men (a) {
+
+Let result = (a * 60)/(40)
+Console.log(result)
+
+ }
+men(150);
